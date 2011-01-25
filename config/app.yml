@@ -1,0 +1,7 @@
+all:
+  fr_feedback_plugin:
+    use_authorization_info: true
+    username_method:        getPublicName
+    email_method:           getEmailAddress
+
+    email_to:      [ ]

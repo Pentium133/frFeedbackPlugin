@@ -1,0 +1,6 @@
+# default rules
+feedback:
+  url:   /feedback
+  param: { module: frFeedback, action: feedback }
+  requirements:
+    sf_method: [ get, post, head ]

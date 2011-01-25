@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <header/>
+    <body>
+      <trans-unit>
+        <source>Feedback form</source>
+        <target>Форма связи с администрацией клуба</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Yourname</source>
+        <target>Ваше имя</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Youremail</source>
+        <target>Ваш e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Yourcomment</source>
+        <target>Ваше сообщение</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Отправить</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your message has been successfully sent.</source>
+        <target>Ваше сообщение было успешно отправлено.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>An error occurred while sending a message. Error code = %1%</source>
+        <target>Произошла ошибка при отправке сообщения. Код ошибки = %1%</target>
+      </trans-unit>
+      <trans-unit>
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source></source>
+        <target></target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>
