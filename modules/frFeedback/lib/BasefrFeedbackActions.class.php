@@ -36,8 +36,9 @@ abstract class BasefrFeedbackActions extends sfActions
           $this->getUser()->setFlash('notice', __('Your message has been successfully sent.', null, 'feedback'));
         else
           $this->getUser()->setFlash('notice', __('An error occurred while sending a message. Error code = %1%', array('%1%'=>$sendResult), 'feedback'));
+
+        $this->redirect('feedback');
       }
-      $this->redirect('feedback');
     }
   }
 }
